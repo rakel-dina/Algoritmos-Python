@@ -5,4 +5,4 @@ Lista de exercícios de algoritmos em Python do curso Curso em Vídeo de Gustavo
  - Sequenciais                                                                          
  - Condicionais
  - Repetição com for
- - Repetição com While
+ - Repetição com While (estou trabalhando nisso 😉🤞)

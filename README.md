@@ -1,5 +1,5 @@
 # Algoritmos Python
-Lista de exercícios de algoritmos em Python do curso Curso em Vídeo deGustavo Guanabara 
+Lista de exercícios de algoritmos em Python do curso Curso em Vídeo de Gustavo Guanabara 
 ## Estuturas: 
  - Sequenciais
  - Condicionais

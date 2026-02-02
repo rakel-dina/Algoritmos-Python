@@ -20,10 +20,11 @@ while operacao != 5:
         multiplicar = numero_1 * numero_2
         print(f"MULTIPLICAÇÃO | [{numero_1}] x [{numero_2}]: {multiplicar}\n")
     elif operacao == 3:
-        maior = numero_1
-        if numero_2 > maior:
+        if numero_1 > numero_2:
+            maior = numero_1
+        else:
             maior = numero_2
-            print(f"MAIOR NÚMERO | ENTRE [{numero_1}] E [{numero_2}],  [{maior}] É MAIOR\n")
+        print(f"MAIOR NÚMERO | ENTRE [{numero_1}] E [{numero_2}],  [{maior}] É MAIOR\n")
     elif operacao == 4:
         print("Digite os novos números\n")
         numero_1 = int(input("Digite o 1° número: "))
